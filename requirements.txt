@@ -1,0 +1,5 @@
+fastapi==0.129.0
+uvicorn[standard]>=0.22.0
+notebooklm-py==0.3.2
+python-multipart==0.0.9
+playwright>=1.50.0
